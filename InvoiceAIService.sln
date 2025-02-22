@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceAIService", "InvoiceAIService.csproj", "{9C25F9E4-8DDE-2D3E-4D12-4CF234742D62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C25F9E4-8DDE-2D3E-4D12-4CF234742D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C25F9E4-8DDE-2D3E-4D12-4CF234742D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C25F9E4-8DDE-2D3E-4D12-4CF234742D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C25F9E4-8DDE-2D3E-4D12-4CF234742D62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5D44E2D-59AC-4A44-9700-12E5F7CE417E}
+	EndGlobalSection
+EndGlobal

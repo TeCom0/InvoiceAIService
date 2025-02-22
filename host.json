@@ -1,0 +1,16 @@
+{
+  "version": "2.0",
+  "functions": [
+    "AnalyzeInvoice"
+  ],
+  "logging": {
+    "applicationInsights": {
+      "samplingSettings": {
+        "isEnabled": true,
+        "excludedTypes": "Request"
+      },
+      "enableLiveMetricsFilters": true
+    }
+  }
+  
+}
